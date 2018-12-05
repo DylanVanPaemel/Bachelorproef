@@ -1,0 +1,219 @@
+id,gender,age,howoften,connect,OS,paid,UX,used,socialMedia,purpose,GPS,videos," preferred_app"
+1,man,21,more_than_2_times,No,IOS,Yes,Important,Yes,Annoying,Muscle,Yes,Sometimes,fitness_only
+2,man,20,more_than_2_times,No,Android,Yes,Important,No,Limited,Muscle,No,Sometimes,"Mobile coach"
+3,man,27,more_than_2_times,Yes,Android,No,Important,No,Limited,Muscle,Yes,Sometimes,food_only
+4,man,20,more_than_2_times,No,IOS,No,Neutral,Yes,Annoying,Muscle,Yes,Must,food_only
+5,man,39,more_than_2_times,No,IOS,Yes,Important,Yes,Annoying,Muscle,Yes,Sometimes,"Mobile coach"
+6,man,21,more_than_2_times,No,IOS,No,Important,No,Annoying,Muscle,No,Sometimes,fitness_only
+7,man,19,more_than_2_times,No,Android,No,Important,No,Limited,Muscle,No,Not_necessarily,fitness_only
+8,man,23,more_than_2_times,No,Android,Yes,Important,Yes,Limited,Losing_weight,No,Sometimes,food_only
+9,man,31,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+10,man,22,more_than_2_times,No,IOS,Yes,Important,Yes,Limited,Muscle,No,Not_necessarily,fitness_only
+11,man,44,more_than_2_times,No,Android,Yes,Important,No,Limited,Muscle,Yes,Sometimes,fitness_only
+12,man,20,more_than_2_times,No,Android,No,Not_important,No,Limited,Muscle,No,Sometimes,food_only
+13,vrouw,44,2_times,Yes,Android,No,Important,No,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+14,man,20,more_than_2_times,No,Android,No,Important,Yes,Limited,Muscle,Yes,Must,food_only
+15,man,20,more_than_2_times,Yes,IOS,Yes,Not_important,No,Limited,Muscle,Yes,Sometimes,fitness_only
+16,man,33,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,No,Sometimes,fitness_only
+17,man,21,1_time,No,IOS,No,Not_important,No,Limited,Losing_weight,Yes,Sometimes,food_only
+18,vrouw,67,more_than_2_times,Yes,Android,No,Important,Yes,Annoying,Losing_weight,Yes,Sometimes,food_only
+19,man,20,more_than_2_times,No,Android,Yes,Important,No,Annoying,Muscle,No,Sometimes,"Mobile coach"
+20,man,20,more_than_2_times,No,Android,No,Important,Yes,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+21,vrouw,20,2_times,Yes,IOS,No,Important,No,Limited,Losing_weight,Yes,Sometimes,fitness_only
+22,man,27,more_than_2_times,No,Android,No,Important,Yes,Limited,Stay_Fit,No,Sometimes,fitness_only
+23,man,23,more_than_2_times,Yes,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+24,man,17,more_than_2_times,Yes,IOS,No,Not_important,Yes,Annoying,Muscle,Yes,Must,fitness_only
+25,man,26,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+26,man,22,less_than_1,Yes,Android,Yes,Important,No,Limited,Losing_weight,Yes,Must,"Mobile coach"
+27,vrouw,19,2_times,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,food_only
+28,man,21,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Muscle,Yes,Sometimes,fitness_only
+29,man,21,more_than_2_times,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+30,vrouw,20,1_time,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+31,vrouw,21,less_than_1,Yes,IOS,No,Important,Yes,Limited,Muscle,Yes,Sometimes,fitness_only
+32,vrouw,26,less_than_1,No,Android,No,Neutral,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+33,man,25,more_than_2_times,Yes,Android,Yes,Important,No,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+34,man,24,1_time,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+35,vrouw,21,less_than_1,Yes,IOS,No,Important,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+36,man,31,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+37,man,21,more_than_2_times,No,Android,No,Important,Yes,Annoying,Muscle,Yes,Must,fitness_only
+38,vrouw,19,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,No,Not_necessarily,food_only
+39,vrouw,22,more_than_2_times,Yes,IOS,No,Important,No,Limited,Muscle,No,Not_necessarily,"Mobile coach"
+40,man,21,more_than_2_times,No,IOS,No,Important,Yes,Annoying,Muscle,Yes,Sometimes,food_only
+41,vrouw,19,1_time,Yes,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+42,vrouw,51,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,Yes,Must,"Mobile coach"
+43,man,22,1_time,Yes,Android,Yes,Important,Yes,Limited,Stay_Fit,No,Not_necessarily,fitness_only
+44,vrouw,56,more_than_2_times,Yes,Android,No,Neutral,No,Limited,Muscle,No,Must,"Mobile coach"
+45,man,22,1_time,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Not_necessarily,fitness_only
+46,vrouw,21,less_than_1,No,IOS,No,Neutral,Yes,Limited,Losing_weight,Yes,Sometimes,food_only
+47,vrouw,45,more_than_2_times,No,IOS,No,Important,Yes,Limited,Losing_weight,No,Sometimes,"Mobile coach"
+48,man,40,more_than_2_times,No,Android,Yes,Important,Yes,Limited,Muscle,No,Must,fitness_only
+49,vrouw,22,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+50,man,25,more_than_2_times,No,Android,Yes,Important,Yes,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+51,vrouw,35,more_than_2_times,No,Android,No,Important,Yes,Limited,Losing_weight,No,Must,"Mobile coach"
+52,vrouw,44,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,food_only
+53,vrouw,22,less_than_1,No,IOS,No,Important,Yes,Limited,Losing_weight,Yes,Not_necessarily,"Mobile coach"
+54,man,23,less_than_1,No,Android,No,Not_important,No,Limited,Stay_Fit,No,Sometimes,food_only
+55,vrouw,20,1_time,No,IOS,No,Important,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+56,vrouw,21,2_times,Yes,IOS,Yes,Important,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+57,vrouw,33,more_than_2_times,Yes,Android,Yes,Not_important,Yes,Annoying,Muscle,Yes,Sometimes,fitness_only
+58,man,22,2_times,Yes,IOS,No,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+59,man,22,more_than_2_times,Yes,Android,Yes,Not_important,Yes,Limited,Muscle,No,Sometimes,food_only
+60,man,21,less_than_1,Yes,IOS,No,Important,No,Annoying,Losing_weight,Yes,Must,food_only
+61,man,19,2_times,No,Android,Yes,Neutral,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+62,vrouw,21,2_times,Yes,Android,No,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+63,man,19,1_time,No,Android,No,Important,No,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+64,man,22,2_times,No,Android,No,Important,No,Limited,Stay_Fit,No,Sometimes,fitness_only
+65,man,21,1_time,Yes,Android,No,Important,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+66,vrouw,24,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,No,Sometimes,fitness_only
+67,vrouw,20,2_times,Yes,IOS,No,Not_important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+68,man,18,more_than_2_times,No,Android,Yes,Important,No,Limited,Muscle,No,Must,"Mobile coach"
+69,vrouw,50,1_time,No,Android,Yes,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+70,man,45,1_time,Yes,IOS,No,Important,No,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+71,man,18,more_than_2_times,No,Android,No,Important,No,Limited,Muscle,No,Not_necessarily,food_only
+72,vrouw,21,more_than_2_times,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+73,man,18,more_than_2_times,No,Android,Yes,Important,No,Annoying,Muscle,No,Not_necessarily,fitness_only
+74,man,21,1_time,No,IOS,No,Important,No,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+75,man,19,more_than_2_times,No,Android,No,Important,No,Annoying,Muscle,Yes,Not_necessarily,food_only
+76,man,18,more_than_2_times,No,IOS,No,Neutral,No,Limited,Stay_Fit,Yes,Sometimes,food_only
+77,man,20,more_than_2_times,No,IOS,No,Important,No,Limited,Muscle,Yes,Sometimes,fitness_only
+78,man,32,more_than_2_times,Yes,IOS,Yes,Important,Yes,Annoying,Muscle,Yes,Sometimes,food_only
+79,man,19,more_than_2_times,No,IOS,No,Not_important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+80,vrouw,34,more_than_2_times,Yes,Android,Yes,Important,Yes,Limited,Muscle,No,Sometimes,fitness_only
+81,vrouw,20,1_time,No,Android,No,Important,Yes,Limited,Losing_weight,No,Sometimes,fitness_only
+82,vrouw,20,less_than_1,Yes,IOS,No,Neutral,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+83,vrouw,46,1_time,Yes,IOS,No,Not_important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+84,vrouw,10,more_than_2_times,No,Android,Yes,Important,Yes,Limited,Losing_weight,No,Sometimes,fitness_only
+85,vrouw,21,less_than_1,No,Android,Yes,Important,No,Annoying,Losing_weight,Yes,Must,"Mobile coach"
+86,man,20,2_times,No,Android,No,Important,No,Limited,Stay_Fit,No,Not_necessarily,food_only
+87,vrouw,20,less_than_1,Yes,Android,No,Important,No,Limited,Losing_weight,Yes,Must,fitness_only
+88,man,22,more_than_2_times,No,Android,Yes,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+89,man,32,more_than_2_times,Yes,Android,Yes,Important,Yes,Annoying,Muscle,Yes,Sometimes,"Mobile coach"
+90,man,41,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,No,Must,fitness_only
+91,man,19,more_than_2_times,No,Android,Yes,Important,No,Limited,Muscle,Yes,Sometimes,fitness_only
+92,man,22,more_than_2_times,No,IOS,Yes,Important,Yes,Limited,Muscle,No,Must,food_only
+93,vrouw,51,more_than_2_times,Yes,Android,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+94,vrouw,22,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+95,man,23,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,Yes,Must,fitness_only
+96,man,24,more_than_2_times,No,Android,No,Neutral,Yes,Limited,Muscle,No,Sometimes,food_only
+97,man,21,more_than_2_times,No,IOS,No,Not_important,No,Annoying,Muscle,No,Must,food_only
+98,vrouw,17,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+99,man,42,more_than_2_times,Yes,Android,Yes,Important,No,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+100,man,60,more_than_2_times,Yes,IOS,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+101,vrouw,22,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+102,vrouw,19,2_times,No,IOS,No,Not_important,No,Limited,Losing_weight,Yes,Must,"Mobile coach"
+103,vrouw,51,less_than_1,No,Android,No,Neutral,No,Annoying,Losing_weight,Yes,Sometimes,food_only
+104,man,36,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Muscle,No,Sometimes,food_only
+105,man,24,more_than_2_times,No,IOS,Yes,Important,Yes,Limited,Muscle,No,Sometimes,food_only
+106,man,54,2_times,Yes,Android,No,Neutral,Yes,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+107,vrouw,38,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,No,Sometimes,"Mobile coach"
+108,vrouw,34,more_than_2_times,Yes,Android,Yes,Important,Yes,Limited,Muscle,No,Sometimes,"Mobile coach"
+109,vrouw,21,2_times,Yes,IOS,Yes,Important,No,Limited,Stay_Fit,Yes,Must,"Mobile coach"
+110,vrouw,17,more_than_2_times,No,IOS,No,Important,Yes,Limited,Muscle,No,Sometimes,"Mobile coach"
+111,man,19,more_than_2_times,No,Android,Yes,Important,No,Limited,Muscle,No,Not_necessarily,food_only
+112,man,26,more_than_2_times,No,Android,No,Not_important,Yes,Limited,Muscle,No,Not_necessarily,"Mobile coach"
+113,vrouw,47,more_than_2_times,Yes,IOS,Yes,Not_important,No,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+114,vrouw,40,1_time,No,Android,No,Neutral,No,Limited,Losing_weight,No,Sometimes,food_only
+115,vrouw,23,less_than_1,Yes,IOS,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+116,vrouw,56,more_than_2_times,Yes,Android,Yes,Important,Yes,Limited,Stay_Fit,No,Sometimes,"Mobile coach"
+117,man,21,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,Yes,Must,"Mobile coach"
+118,man,23,less_than_1,No,Android,No,Important,Yes,Limited,Muscle,Yes,Must,"Mobile coach"
+119,vrouw,18,2_times,No,Android,No,Neutral,Yes,Annoying,Muscle,Yes,Sometimes,fitness_only
+120,man,22,more_than_2_times,No,Android,No,Neutral,Yes,Limited,Muscle,Yes,Must,fitness_only
+121,vrouw,21,less_than_1,Yes,Android,No,Important,Yes,Limited,Losing_weight,No,Sometimes,fitness_only
+122,man,20,less_than_1,Yes,Android,Yes,Important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+123,man,22,1_time,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,food_only
+124,man,22,less_than_1,No,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,food_only
+125,vrouw,19,less_than_1,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+126,man,20,2_times,No,Android,No,Important,No,Limited,Muscle,No,Must,fitness_only
+127,man,24,1_time,No,Android,No,Not_important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+128,man,21,more_than_2_times,No,Android,No,Important,Yes,Limited,Muscle,No,Must,"Mobile coach"
+129,man,22,more_than_2_times,Yes,Android,No,Not_important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+130,man,22,less_than_1,No,IOS,Yes,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+131,man,20,1_time,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Not_necessarily,fitness_only
+132,man,24,more_than_2_times,Yes,Android,No,Important,No,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+133,man,20,less_than_1,No,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,food_only
+134,man,20,more_than_2_times,No,Android,No,Important,No,Limited,Muscle,No,Sometimes,fitness_only
+135,man,21,2_times,Yes,IOS,No,Neutral,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+136,man,20,more_than_2_times,No,Android,No,Not_important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+137,man,23,less_than_1,Yes,IOS,No,Important,No,Limited,Losing_weight,No,Must,"Mobile coach"
+138,man,21,2_times,Yes,Android,No,Neutral,Yes,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+139,man,19,2_times,No,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+140,man,27,more_than_2_times,No,Android,Yes,Important,No,Limited,Stay_Fit,Yes,Must,fitness_only
+141,man,21,less_than_1,No,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+142,man,20,more_than_2_times,No,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+143,man,20,less_than_1,Yes,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+144,man,29,more_than_2_times,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Must,"Mobile coach"
+145,vrouw,19,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Muscle,Yes,Sometimes,fitness_only
+146,man,20,less_than_1,No,Android,No,Not_important,No,Limited,Losing_weight,No,Not_necessarily,fitness_only
+147,man,34,less_than_1,No,Android,No,Important,No,Limited,Losing_weight,No,Not_necessarily,food_only
+148,man,23,more_than_2_times,No,Android,No,Neutral,No,Limited,Muscle,No,Must,fitness_only
+149,vrouw,27,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,No,Sometimes,"Mobile coach"
+150,vrouw,21,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+151,man,24,more_than_2_times,Yes,IOS,No,Important,Yes,Annoying,Muscle,No,Not_necessarily,fitness_only
+152,man,20,more_than_2_times,No,Android,No,Not_important,No,Limited,Muscle,No,Not_necessarily,"Mobile coach"
+153,vrouw,20,2_times,Yes,Android,No,Not_important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+154,man,48,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Stay_Fit,No,Sometimes,fitness_only
+155,vrouw,52,more_than_2_times,Yes,Android,Yes,Important,No,Limited,Stay_Fit,Yes,Sometimes,food_only
+156,vrouw,55,1_time,No,other,No,Neutral,No,Limited,Losing_weight,No,Sometimes,food_only
+157,vrouw,54,less_than_1,Yes,Android,No,Important,No,Annoying,Stay_Fit,Yes,Sometimes,food_only
+158,vrouw,45,1_time,No,IOS,No,Not_important,No,Annoying,Losing_weight,Yes,Sometimes,food_only
+159,vrouw,53,less_than_1,No,other,No,Not_important,No,Limited,Losing_weight,No,Sometimes,food_only
+160,man,22,more_than_2_times,No,Android,No,Important,Yes,Limited,Muscle,No,Not_necessarily,food_only
+161,man,44,2_times,Yes,IOS,No,Important,Yes,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+162,vrouw,57,2_times,Yes,Android,No,Not_important,Yes,Limited,Stay_Fit,No,Sometimes,food_only
+163,vrouw,47,less_than_1,Yes,Android,No,Important,No,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+164,man,40,more_than_2_times,Yes,IOS,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+165,vrouw,26,more_than_2_times,Yes,IOS,No,Not_important,Yes,Limited,Stay_Fit,Yes,Must,fitness_only
+166,vrouw,39,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+167,man,15,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Muscle,No,Sometimes,fitness_only
+168,man,27,more_than_2_times,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+169,vrouw,66,more_than_2_times,No,Android,No,Neutral,No,Annoying,Stay_Fit,No,Sometimes,food_only
+170,man,52,2_times,No,Android,No,Neutral,No,Limited,Stay_Fit,No,Sometimes,fitness_only
+171,vrouw,46,less_than_1,No,Android,No,Neutral,No,Annoying,Losing_weight,Yes,Sometimes,food_only
+172,vrouw,40,less_than_1,Yes,Android,No,Important,No,Limited,Losing_weight,Yes,Sometimes,food_only
+173,vrouw,51,more_than_2_times,No,Android,No,Important,No,Limited,Muscle,No,Sometimes,food_only
+174,man,30,more_than_2_times,No,Android,Yes,Not_important,Yes,Limited,Stay_Fit,No,Sometimes,food_only
+175,vrouw,37,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Losing_weight,Yes,Sometimes,food_only
+176,vrouw,21,2_times,Yes,Android,No,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+177,man,36,1_time,Yes,Android,No,Not_important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+178,vrouw,52,less_than_1,No,Android,Yes,Not_important,No,Limited,Losing_weight,No,Sometimes,"Mobile coach"
+179,man,27,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+180,vrouw,41,2_times,Yes,Android,No,Important,Yes,Limited,Stay_Fit,No,Sometimes,food_only
+181,vrouw,56,2_times,Yes,Android,No,Not_important,No,Limited,Stay_Fit,No,Sometimes,"Mobile coach"
+182,vrouw,53,more_than_2_times,Yes,Android,No,Important,No,Limited,Losing_weight,No,Sometimes,food_only
+183,man,21,more_than_2_times,Yes,IOS,Yes,Important,Yes,Annoying,Muscle,No,Must,fitness_only
+184,vrouw,53,more_than_2_times,Yes,Android,No,Important,Yes,Limited,Losing_weight,No,Must,fitness_only
+185,man,25,less_than_1,No,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Not_necessarily,fitness_only
+186,man,24,more_than_2_times,Yes,IOS,Yes,Not_important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+187,vrouw,52,less_than_1,Yes,IOS,No,Not_important,Yes,Limited,Muscle,Yes,Sometimes,fitness_only
+188,man,44,less_than_1,No,IOS,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,food_only
+189,vrouw,20,more_than_2_times,No,IOS,No,Important,No,Limited,Muscle,No,Sometimes,fitness_only
+190,vrouw,51,less_than_1,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+191,vrouw,35,more_than_2_times,No,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,fitness_only
+192,vrouw,44,2_times,Yes,IOS,No,Important,Yes,Limited,Losing_weight,No,Sometimes,food_only
+193,vrouw,44,less_than_1,Yes,Android,Yes,Important,No,Annoying,Losing_weight,Yes,Sometimes,fitness_only
+194,man,21,more_than_2_times,No,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,"Mobile coach"
+195,vrouw,67,1_time,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,"Mobile coach"
+196,vrouw,64,more_than_2_times,Yes,Android,No,Not_important,Yes,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+197,man,24,more_than_2_times,Yes,Android,Yes,Important,Yes,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+198,man,33,more_than_2_times,No,IOS,No,Important,No,Limited,Stay_Fit,Yes,Not_necessarily,fitness_only
+199,man,25,1_time,No,Android,No,Important,No,Limited,Stay_Fit,No,Sometimes,"Mobile coach"
+200,vrouw,18,2_times,No,Android,Yes,Important,Yes,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+201,vrouw,50,less_than_1,Yes,Android,No,Important,Yes,Annoying,Stay_Fit,Yes,Sometimes,"Mobile coach"
+202,vrouw,52,1_time,Yes,other,No,Neutral,No,Limited,Stay_Fit,No,Not_necessarily,fitness_only
+203,vrouw,50,less_than_1,No,Android,No,Neutral,No,Limited,Stay_Fit,No,Sometimes,food_only
+204,vrouw,51,less_than_1,Yes,Android,No,Not_important,No,Annoying,Losing_weight,Yes,Must,food_only
+205,vrouw,51,2_times,Yes,Android,Yes,Not_important,No,Annoying,Stay_Fit,Yes,Sometimes,food_only
+206,vrouw,59,less_than_1,Yes,other,No,Neutral,No,Annoying,Stay_Fit,Yes,Sometimes,fitness_only
+207,man,21,less_than_1,Yes,Android,No,Important,Yes,Limited,Stay_Fit,Yes,Must,fitness_only
+208,vrouw,59,2_times,Yes,Android,Yes,Important,Yes,Limited,Losing_weight,No,Sometimes,food_only
+209,vrouw,50,2_times,No,Android,No,Neutral,No,Limited,Stay_Fit,No,Sometimes,food_only
+210,man,21,more_than_2_times,Yes,IOS,Yes,Important,Yes,Limited,Losing_weight,Yes,Sometimes,food_only
+211,man,55,more_than_2_times,Yes,Android,No,Important,No,Limited,Stay_Fit,Yes,Sometimes,fitness_only
+212,man,27,more_than_2_times,Yes,IOS,No,Not_important,No,Limited,Muscle,No,Must,fitness_only
+213,vrouw,51,1_time,No,other,No,Neutral,No,Limited,Stay_Fit,No,Not_necessarily,food_only
+214,vrouw,60,2_times,Yes,Android,No,Not_important,No,Annoying,Stay_Fit,Yes,Sometimes,food_only
+215,man,39,more_than_2_times,Yes,Android,Yes,Important,No,Limited,Muscle,Yes,Sometimes,"Mobile coach"
+216,vrouw,20,1_time,No,IOS,No,Important,No,Limited,Stay_Fit,Yes,Must,"Mobile coach"
+217,vrouw,43,1_time,No,IOS,No,Not_important,Yes,Limited,Stay_Fit,Yes,Not_necessarily,fitness_only
+218,man,21,more_than_2_times,No,Android,No,Not_important,Yes,Limited,Muscle,Yes,Sometimes,fitness_only
